@@ -1,10 +1,10 @@
 # 🌐 Dareen Gayle V. Yadao – Portfolio Website
 
-This is a responsive personal portfolio built using **HTML**, **Tailwind CSS**, and **JavaScript** to showcase my background, skills, certifications, and projects as an aspiring Full Stack Developer and Cybersecurity enthusiast.
+This is a responsive personal portfolio built using HTML, Tailwind CSS, and JavaScript, designed to showcase my skills, certifications, and projects. While I have a foundation in **Web Development**, this portfolio highlights my growing expertise and passion in **Cybersecurity**, including secure coding practices and vulnerability assessment.
 
 ## 🔍 About
 
-I am an IT student passionate about secure, modern web applications and tech solutions. This portfolio highlights my growth, practical training, and experience in both development and cybersecurity.
+I am an IT student deeply focused on **Cybersecurity**, driven by a strong interest in protecting systems, applications, and data from evolving threats. My portfolio reflects hands-on experience in areas such as vulnerability assessment, network analysis, and secure coding. While I also build modern, responsive web applications using HTML, **Tailwind CSS**, and **JavaScript**, my primary goal is to design and develop tech solutions with security at the core.
 
 ## 🚀 Features
 
