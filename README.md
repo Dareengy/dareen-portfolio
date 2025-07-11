@@ -4,7 +4,7 @@ This is a responsive personal portfolio built using HTML, Tailwind CSS, and Java
 
 ## 🔍 About
 
-I am an IT student deeply focused on **Cybersecurity**, driven by a strong interest in protecting systems, applications, and data from evolving threats. My portfolio reflects hands-on experience in areas such as vulnerability assessment, network analysis, and secure coding. While I also build modern, responsive web applications using HTML, **Tailwind CSS**, and **JavaScript**, my primary goal is to design and develop tech solutions with security at the core.
+I am an IT student deeply focused on **Cybersecurity**, driven by a strong interest in protecting systems, applications, and data from evolving threats. My portfolio reflects hands-on experience in areas such as vulnerability assessment, network analysis, and secure coding. While I also build modern, responsive web applications using **HTML**, **Tailwind CSS**, and **JavaScript**, my primary goal is to design and develop tech solutions with security at the core.
 
 ## 🚀 Features
 
